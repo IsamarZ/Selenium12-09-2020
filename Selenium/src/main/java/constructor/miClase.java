@@ -5,5 +5,7 @@ public class miClase {
 	miClase(){
 		x=10;
 	}
-
+	miClase(int i){
+		x=10 + i;
+	}
 }
